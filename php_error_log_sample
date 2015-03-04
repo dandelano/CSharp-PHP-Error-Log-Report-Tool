@@ -1,0 +1,58 @@
+[28-May-2014 13:25:04 America/Indianapolis] PHP Notice:  Notice message on line 85
+[28-May-2014 13:25:42 America/Chicago] PHP Strict Standards:  Strict Standards message on line 325
+[28-May-2014 13:46:49 America/Chicago] PHP Notice:  Notice message on line 800
+[28-May-2014 15:10:30 America/Detroit] PHP Fatal error:  Fatal Error message in D:\inetpub\class.php on line 40
+[30-May-2014 11:08:30 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 11:09:58 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:10:01 America/Detroit] PHP Fatal error:  Fatal Error message in D:\inetpub\class.php on line 40
+[30-May-2014 12:10:01 America/Detroit] PHP Notice:  Notice message in D:\inetpub\class.php on line 42
+[30-May-2014 11:10:02 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 11:12:50 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:13:04 America/Detroit] PHP Fatal error:  Fatal Error message in D:\inetpub\class.php on line 40
+[30-May-2014 12:13:04 America/Detroit] PHP Notice:  Notice message in D:\inetpub\class.php on line 42
+[30-May-2014 11:13:13 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 11:13:14 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:26:05 America/Detroit] PHP Fatal error:  Fatal Error message in D:\inetpub\class.php on line 40
+[30-May-2014 12:26:05 America/Detroit] PHP Notice:  Notice message in D:\inetpub\class.php on line 42
+[30-May-2014 11:26:08 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 11:26:13 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 11:46:02 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:46:03 America/Detroit] PHP Fatal error:  Fatal Error message in D:\inetpub\class.php on line 40
+[30-May-2014 12:46:03 America/Detroit] PHP Notice:  Notice message in D:\inetpub\class.php on line 42
+[30-May-2014 11:46:26 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 11:55:10 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:55:35 America/Detroit] PHP Fatal error:  Fatal Error message in D:\inetpub\class.php on line 40
+[30-May-2014 12:55:35 America/Detroit] PHP Notice:  Notice message in D:\inetpub\class.php on line 42
+[30-May-2014 11:55:35 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 11:55:36 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:14:21 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:14:25 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:14:43 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 526
+[30-May-2014 12:14:49 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:14:53 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:14:57 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 12:19:16 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 133
+[30-May-2014 13:25:01 America/Detroit] PHP Notice:  Notice message  in D:\inetpub\index.php on line 52
+[30-May-2014 13:25:01 America/Detroit] PHP Notice:  Notice message  in D:\inetpub\index.php on line 53
+[30-May-2014 13:25:01 America/Detroit] PHP Notice:  Notice message  in D:\inetpub\index.php on line 54
+[30-May-2014 13:25:01 America/Detroit] PHP Notice:  Notice message  in D:\inetpub\index.php on line 55
+[30-May-2014 12:25:36 America/Chicago] PHP Notice:  Notice message  in D:\inetpub\class.php on line 43
+[30-May-2014 12:25:38 America/Chicago] Invalid or no certificate authority found, using bundled information
+[30-May-2014 12:25:38 America/Chicago] Invalid or no certificate authority found, using bundled information
+[30-May-2014 12:25:39 America/Chicago] Invalid or no certificate authority found, using bundled information
+[30-May-2014 11:37:24 America/Boise] PHP Notice:  Notice message  in D:\inetpub\srv.php on line 24
+[30-May-2014 13:37:51 America/Detroit] PHP Warning:  Warning message HTTP request failed! HTTP/1.1 400 Bad Request
+ in D:\inetpub\class.php on line 1181
+[30-May-2014 13:37:51 America/Detroit] PHP Notice:  Notice message in D:\inetpub\class.php on line 1205
+[30-May-2014 13:38:07 America/Indianapolis] PHP Notice:  Notice message in D:\inetpub\form.php on line 85
+[30-May-2014 13:41:49 America/Indianapolis] PHP Warning:  Warning message in D:\inetpub\class.php on line 332
+[30-May-2014 13:41:49 America/Indianapolis] PHP Warning:  Warning message in D:\inetpub\class.php on line 332
+[30-May-2014 13:41:49 America/Indianapolis] PHP Warning:  Warning message in D:\inetpub\class.php on line 332
+[01-Jun-2014 17:48:07 America/Chicago] PHP Deprecated:  This function is deprecated; use instead. in D:\inetpub\class.php on line 669
+[01-Jun-2014 17:48:07 America/Chicago] PHP Deprecated:  This function is deprecated; use instead. in D:\inetpub\class.php on line 669
+[02-Jun-2014 10:51:49 America/Detroit] PHP Warning:  Warning message HTTP request failed! HTTP/1.1 400 Bad Request
+ in D:\inetpub\class.php on line 1181
+[02-Jun-2014 10:51:49 America/Detroit] PHP Notice:  Notice message in D:\inetpub\class.php on line 1205
+[02-Jun-2014 10:51:59 America/Detroit] PHP Warning:  Warning message HTTP request failed! HTTP/1.1 400 Bad Request
+ in D:\inetpub\class.php on line 1181
+[02-Jun-2014 10:51:59 America/Detroit] PHP Notice:  Notice message  in D:\inetpub\class.php on line 1205
